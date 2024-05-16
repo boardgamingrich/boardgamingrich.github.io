@@ -1,0 +1,1 @@
+# boardgamingrich.github.io
