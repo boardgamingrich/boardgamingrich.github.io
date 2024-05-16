@@ -1,3 +1,6 @@
-# boardgamingrich.github.io
+Hello World
 
-* Hello World
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
